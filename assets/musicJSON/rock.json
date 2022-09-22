@@ -1,0 +1,53 @@
+[
+    {
+        "id":1,
+        "playlist":"rock",
+        "artista":"AC/DC",
+        "nombre" : "Tunderstruck",
+        "url":"assets/music/rock/23.mp3",
+        "duracion":152
+    },
+    {
+        "id":2,
+        "playlist":"rock",
+        "artista":"AC/DC",
+        "nombre" : "Back In Black",
+        "url":"assets/music/rock/Back In Black.mp3",
+        "duracion":414
+    },
+    
+    {
+        "id":4,
+        "playlist":"rock",
+        "artista":"AC/DC",
+        "nombre" : "Highway to Hell",
+        "url":"assets/music/rock/Highway to Hell.mp3",
+        "duracion":200
+    },
+    {
+        "id":5,
+        "playlist":"rock",
+        "artista":"Led Zepellin",
+        "nombre" : "Immigrant Song",
+        "url":"assets/music/rock/Immigrant Song.mp3",
+        "duracion":226
+    },
+
+    {
+        "id":6,
+        "playlist":"rock",
+        "artista":"Rammstein",
+        "nombre" : "Puppe",
+        "url":"assets/music/rock/Puppe.mp3",
+        "duracion":433
+    },
+    {
+        "id":7,
+        "playlist":"rock",
+        "artista":"Rammstein",
+        "nombre" : "Was Ich Liebe",
+        "url":"assets/music/rock/Was Ich Liebe.mp3",
+        "duracion":429
+    }
+   
+]

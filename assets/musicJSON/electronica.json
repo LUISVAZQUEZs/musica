@@ -1,0 +1,43 @@
+[
+    {
+        "id":1,
+        "playlist":"electronica",
+        "artista":"Martin Garrix,Tove Lo",
+        "nombre" : "01 Pressure (feat_ Tove Lo)",
+        "url":"assets/music/electronica/01 Pressure (feat_ Tove Lo).mp3",
+        "duracion":224
+    },
+    {
+        "id":2,
+        "playlist":"electronica",
+        "artista":"Martin Garrix",
+        "nombre" : "Love Runs Out",
+        "url":"assets/music/electronica/01.mp3",
+        "duracion":244
+    },
+    {
+        "id":3,
+        "playlist":"electronica",
+        "artista":"David Guetta, Sia",
+        "nombre" : "Titanium",
+        "url":"assets/music/electronica/07.mp3",
+        "duracion":405
+    },
+    {
+        "id":4,
+        "playlist":"electronica",
+        "artista":"David Guetta, Kid Cudi",
+        "nombre" : "Memories",
+        "url":"assets/music/electronica/08.mp3",
+        "duracion":243
+    },
+    {
+        "id":5,
+        "playlist":"electronica",
+        "artista":"Kungs, Ephemerals",
+        "nombre" : "I Feel So Bad",
+        "url":"assets/music/electronica/17.mp3",
+        "duracion":327
+    }
+    
+]

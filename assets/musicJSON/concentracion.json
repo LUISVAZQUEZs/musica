@@ -1,0 +1,42 @@
+[
+    {
+        "id":1,
+        "playlist":"concentracion",
+        "artista":"Desconocido",
+        "nombre" : "01. animo",
+        "url":"assets/music/concentracion/01. animo.mp3",
+        "duracion":725
+    },
+    {
+        "id":2,
+        "playlist":"concentracion",
+        "artista":"Desconocido",
+        "nombre" : "02. full",
+        "url":"assets/music/concentracion/02. full.mp3",
+        "duracion":725
+    },
+    {
+        "id":3,
+        "playlist":"concentracion",
+        "artista":"Desconocido",
+        "nombre" : "03. cell",
+        "url":"assets/music/concentracion/03. cell.mp3",
+        "duracion":429
+    },
+    {
+        "id":4,
+        "playlist":"concentracion",
+        "artista":"Desconocido",
+        "nombre" : "04. relax",
+        "url":"assets/music/concentracion/04. relax.mp3",
+        "duracion":529
+    },
+    {
+        "id":5,
+        "playlist":"concentracion",
+        "artista":"Desconocido",
+        "nombre" : "05. big",
+        "url":"assets/music/concentracion/05. big.mp3",
+        "duracion":623
+    }
+]

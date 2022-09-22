@@ -1,0 +1,59 @@
+[
+    {
+        "id":1,
+        "playlist":"jazz",
+        "artista":"Instrumental Music Cafe",
+        "nombre" : "Instrumental Music Cafe",
+        "url":"assets/music/jazz/Instrumental Music Cafe.mp3",
+        "duracion":212
+    },
+    {
+        "id":2,
+        "playlist":"jazz",
+        "artista":"Instrumental Music Cafe",
+        "nombre" : "Jazz with Coffee and Tea",
+        "url":"assets/music/jazz/Instrumental Music Cafe_1.mp3",
+        "duracion":233
+    },
+    {
+        "id":3,
+        "playlist":"jazz",
+        "artista":"Instrumental Music Cafe",
+        "nombre" : "Slow Jazz Cafe",
+        "url":"assets/music/jazz/Instrumental Music Cafe_2.mp3",
+        "duracion":232
+    },
+    {
+        "id":4,
+        "playlist":"jazz",
+        "artista":"Instrumental Music Cafe",
+        "nombre" : "Finals",
+        "url":"assets/music/jazz/Instrumental Music Cafe_3.mp3",
+        "duracion":207
+    },
+    {
+        "id":5,
+        "playlist":"jazz",
+        "artista":"Instrumental Music Cafe",
+        "nombre" : "Signs of Coffee",
+        "url":"assets/music/jazz/Instrumental Music Cafe_4.mp3",
+        "duracion":207
+    },
+    {
+        "id":6,
+        "playlist":"jazz",
+        "artista":"Instrumental Music Cafe",
+        "nombre" : "No Worries",
+        "url":"assets/music/jazz/Instrumental Music Cafe_5.mp3",
+        "duracion":203
+    },
+    {
+        "id":7,
+        "playlist":"jazz",
+        "artista":"Instrumental Music Cafe",
+        "nombre" : "Half an Hour",
+        "url":"assets/music/jazz/Instrumental Music Cafe_6.mp3",
+        "duracion":223
+    }
+
+]

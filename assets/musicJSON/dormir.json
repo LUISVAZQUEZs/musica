@@ -1,0 +1,53 @@
+[
+    {
+        "id":1,
+        "playlist":"dormir",
+        "artista":"Cameron Sinosa",
+        "nombre" : "Neblinoso",
+        "url":"assets/music/dormir/Neblinoso.mp3",
+        "duracion":354
+    },
+    {
+        "id":2,
+        "playlist":"dormir",
+        "artista":"Cameron Sinosa",
+        "nombre" : "Querencia",
+        "url":"assets/music/dormir/Querencia.mp3",
+        "duracion":314
+    },
+    {
+        "id":3,
+        "playlist":"dormir",
+        "artista":"Firefly Entertainment AB",
+        "nombre" : "High Beliefs",
+        "url":"assets/music/dormir/High Beliefs.mp3",
+        "duracion":324
+    },
+    {
+        "id":4,
+        "playlist":"dormir",
+        "artista":" Light Bin",
+        "nombre" : "Moment of Clarity",
+        "url":"assets/music/dormir/Moment of Clarity.mp3",
+        "duracion":221
+    },
+    {
+        "id":6,
+        "playlist":"dormir",
+        "artista":"Deep Watch",
+        "nombre" : "Reasons For Being",
+        "url":"assets/music/dormir/Reasons For Being.mp3",
+        "duracion":256
+    },
+    {
+        "id":8,
+        "playlist":"dormir",
+        "artista":"Sven Stierna",
+        "nombre" : "Nocturne",
+        "url":"assets/music/dormir/Nocturne.mp3",
+        "duracion":343
+    }
+    
+    
+
+]

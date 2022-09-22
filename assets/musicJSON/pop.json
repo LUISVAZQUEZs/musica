@@ -1,0 +1,67 @@
+[
+    {
+        "id":1,
+        "playlist":"pop",
+        "artista":"Calvin Harris Dua Lipa  ",
+        "nombre" : "One Kiss",
+        "url":"assets/music/pop/One Kiss.mp3",
+        "duracion":343
+    },
+    {
+        "id":2,
+        "playlist":"pop",
+        "artista":" The Weekend",
+        "nombre" : "I Feel It Coming ft Daft Punk",
+        "url":"assets/music/pop/I Feel It Coming ft Daft Punk.mp3",
+        "duracion":457
+    },
+    {
+        "id":3,
+        "playlist":"pop",
+        "artista":"Maroon 5",
+        "nombre" : "Lost",
+        "url":"assets/music/pop/Lost.mp3",
+        "duracion":252
+    },
+    {
+        "id":4,
+        "playlist":"pop",
+        "artista":"Kygo, Miguel",
+        "nombre" : "Remind Me to Forget",
+        "url":"assets/music/pop/Remind Me to Forget.mp3",
+        "duracion":342
+    },
+    {
+        "id":5,
+        "playlist":"pop",
+        "artista":"Adele",
+        "nombre" : "Skyfall",
+        "url":"assets/music/pop/Skyfall.mp3",
+        "duracion":449
+    },
+    {
+        "id":6,
+        "playlist":"pop",
+        "artista":"Alok  Dynoro",
+        "nombre" : "On  On",
+        "url":"assets/music/pop/On  On.mp3",
+        "duracion":225
+    },
+    {
+        "id":7,
+        "playlist":"pop",
+        "artista":"Alok Remix",
+        "nombre" : "Astronaut In The Ocean",
+        "url":"assets/music/pop/Astronaut In The Ocean.mp3",
+        "duracion":208
+    },
+    {
+        "id":8,
+        "playlist":"pop",
+        "artista":"Ed Sheeran",
+        "nombre" : "Bad Habits",
+        "url":"assets/music/pop/Bad Habits.mp3",
+        "duracion":355
+    }
+
+]

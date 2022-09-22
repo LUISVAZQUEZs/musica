@@ -1,0 +1,42 @@
+[
+    {
+        "id":1,
+        "playlist":"soundtrack",
+        "artista":"Ian Hultquist",
+        "nombre" : "3D Printing",
+        "url":"assets/music/soundtrack/3D Printing.mp3",
+        "duracion":217
+    },
+    {
+        "id":2,
+        "playlist":"soundtrack",
+        "artista":"Benjamin Wallfisch",
+        "nombre" : "Every 27 Years",
+        "url":"assets/music/soundtrack/Every 27 Years.mp3",
+        "duracion":237
+    },
+    {
+        "id":3,
+        "playlist":"soundtrack",
+        "artista":"Benjamin Wallfisch; ",
+        "nombre" : "A.X.L. Online",
+        "url":"assets/music/soundtrack/A.X.L. Online.mp3",
+        "duracion":244
+    },
+    {
+        "id":4,
+        "playlist":"soundtrack",
+        "artista":"Thomas Newman",
+        "nombre" : "The Night Window From the 1917",
+        "url":"assets/music/soundtrack/The Night Window From the 1917.mp3",
+        "duracion":243
+    },
+    {
+        "id":5,
+        "playlist":"soundtrack",
+        "artista":"Howard Shore",
+        "nombre" : "The Breaking of the Fellowship feat In Dreams",
+        "url":"assets/music/soundtrack/The Breaking of the Fellowship feat In Dreams.mp3",
+        "duracion":720
+    }
+]

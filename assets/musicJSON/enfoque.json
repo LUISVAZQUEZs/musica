@@ -1,0 +1,52 @@
+[
+    {
+        "id":1,
+        "playlist":"enfoque",
+        "artista":"oh, the joy.; ",
+        "nombre" : "1am in nyc",
+        "url":"assets/music/enfoque/01 1am in nyc.mp3",
+        "duracion":223
+    },
+    {
+        "id":2,
+        "playlist":"enfoque",
+        "artista":"Ooyy",
+        "nombre" : "40 Love",
+        "url":"assets/music/enfoque/01 40 Love.mp3",
+        "duracion":259
+    },
+    {
+        "id":3,
+        "playlist":"enfoque",
+        "artista":"K�lsch,Ludwig K�lsch",
+        "nombre" : "01 1989 (feat_ Ludwig Kölsch)",
+        "url":"assets/music/enfoque/01 1989 (feat_ Ludwig Kölsch).mp3",
+        "duracion":223
+    },
+    {
+        "id":4,
+        "playlist":"enfoque",
+        "artista":"Nebulae",
+        "nombre" : "A Bird's Call",
+        "url":"assets/music/enfoque/01 A Bird's Call.mp3",
+        "duracion":303
+    },
+   
+    {
+        "id":5,
+        "playlist":"enfoque",
+        "artista":"SoN",
+        "nombre" : "Adventum",
+        "url":"assets/music/enfoque/01 Adventum.mp3",
+        "duracion":229
+    },
+    {
+        "id":6,
+        "playlist":"enfoque",
+        "artista":"goosetaf,Kyle McEvoy,Fourth Dogma",
+        "nombre" : "Always Infinity",
+        "url":"assets/music/enfoque/01 Always Infinity.mp3",
+        "duracion":223
+    }
+    
+]

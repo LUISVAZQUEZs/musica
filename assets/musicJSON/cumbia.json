@@ -1,0 +1,43 @@
+[
+    {
+        "id":1,
+        "playlist":"cumbia",
+        "artista":"Grupo Bryndis",
+        "nombre" : "La Última Canción",
+        "url":"assets/music/cumbia/La Última Canción.mp3",
+        "duracion":423
+    },
+    {
+        "id":2,
+        "playlist":"cumbia",
+        "artista":"Selena Y Los Dinos; ",
+        "nombre" : "Amor Prohibido",
+        "url":"assets/music/cumbia/Amor Prohibido.mp3",
+        "duracion":250
+    },
+    {
+        "id":3,
+        "playlist":"cumbia",
+        "artista":"La Sonora Dinamita; ",
+        "nombre" : "Qué Bello ft Kika Edgar",
+        "url":"assets/music/cumbia/Qué Bello ft Kika Edgar.mp3",
+        "duracion":416
+    },
+    {
+        "id":4,
+        "playlist":"cumbia",
+        "artista":"Selena",
+        "nombre" : "Como La Flor",
+        "url":"assets/music/cumbia/Como La Flor.mp3",
+        "duracion":302
+    },
+    {
+        "id":5,
+        "playlist":"cumbia",
+        "artista":"Selena",
+        "nombre" : "Bidi Bidi Bom Bom",
+        "url":"assets/music/cumbia/Bidi Bidi Bom Bom.mp3",
+        "duracion":328
+    }
+
+]
